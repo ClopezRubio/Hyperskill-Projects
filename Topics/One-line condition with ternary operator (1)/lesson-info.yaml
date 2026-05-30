@@ -1,0 +1,5 @@
+custom_name: One-line condition with ternary operator
+content:
+  - Theory
+  - Determining if an integer is odd or even
+  - Check if a given number is equal to 10

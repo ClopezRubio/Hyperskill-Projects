@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#JAVA_INTERNAL" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Last Pencil (Java)/task" />
+            <option value="$PROJECT_DIR$/Last Pencil (Java)/task (1)" />
+            <option value="$PROJECT_DIR$/Last Pencil (Java)/task/build/classes/java" />
+            <option value="$PROJECT_DIR$/Last Pencil (Java)/task/build/generated/sources/annotationProcessor/java" />
+            <option value="$PROJECT_DIR$/Last Pencil (Java)/task/build/generated/sources/headers/java" />
+            <option value="$PROJECT_DIR$/Last Pencil (Java)/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Last Pencil (Java)/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Last Pencil (Java)/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/Arithmetic operations (1)/Calculating square, cube and fourth power of a number" />
+            <option value="$PROJECT_DIR$/Topics/Arithmetic operations (1)/Sum, multiplication, and division of two integers" />
+            <option value="$PROJECT_DIR$/Topics/Arithmetic operations (1)/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Arithmetic operations (1)/Theory (1)" />
+            <option value="$PROJECT_DIR$/Topics/Array (1)/Initializing an array of longs" />
+            <option value="$PROJECT_DIR$/Topics/Array (1)/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Arrays as parameters (1)/Inverse boolean flags" />
+            <option value="$PROJECT_DIR$/Topics/Arrays as parameters (1)/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Boolean type and operations. True and false (1)/Checking if a number is even or odd" />
+            <option value="$PROJECT_DIR$/Topics/Boolean type and operations. True and false (1)/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Boolean type and operations. True and false (2)/Checking if a number is even or odd" />
+            <option value="$PROJECT_DIR$/Topics/Boolean type and operations. True and false (2)/Evaluating the conjunction of two booleans" />
+            <option value="$PROJECT_DIR$/Topics/Boolean type and operations. True and false (2)/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Boolean type and operations. True and false (2)/Theory (1)" />
+            <option value="$PROJECT_DIR$/Topics/Break and continue. Branching (1)/Bus tour" />
+            <option value="$PROJECT_DIR$/Topics/Break and continue. Branching (1)/The integer barrier" />
+            <option value="$PROJECT_DIR$/Topics/Break and continue. Branching (1)/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Break and continue. Branching (1)/Theory (1)" />
+            <option value="$PROJECT_DIR$/Topics/Calling methods (1)/Product and rounded average of two integers" />
+            <option value="$PROJECT_DIR$/Topics/Calling methods (1)/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Command-line arguments/Basic calculator" />
+            <option value="$PROJECT_DIR$/Topics/Command-line arguments/Command-line arguments" />
+            <option value="$PROJECT_DIR$/Topics/Command-line arguments/Parameters and their values" />
+            <option value="$PROJECT_DIR$/Topics/Command-line arguments/The index of an argument" />
+            <option value="$PROJECT_DIR$/Topics/Comparing values. Relational operators (1)/Check the value" />
+            <option value="$PROJECT_DIR$/Topics/Comparing values. Relational operators (1)/Comparing two integers inputted by user" />
+            <option value="$PROJECT_DIR$/Topics/Comparing values. Relational operators (1)/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement (1)/Check a number is positive" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement (1)/Comparing values. Relational operators" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement (1)/Determining range of an integer  low, mid or high" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement (1)/Interval" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement (1)/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Conditional statement (1)/Triangle" />
+            <option value="$PROJECT_DIR$/Topics/Declaring methods (1)/Raise to the power" />
+            <option value="$PROJECT_DIR$/Topics/Declaring methods (1)/Sum of numbers in the range" />
+            <option value="$PROJECT_DIR$/Topics/Declaring methods (1)/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Errors in programs (1)/Fix compile-time errors" />
+            <option value="$PROJECT_DIR$/Topics/Errors in programs (1)/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Errors in programs (1)/What's wrong" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types and operations (1)/Distance" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types and operations (1)/Exponential expression" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types and operations (1)/Liquid pressure" />
+            <option value="$PROJECT_DIR$/Topics/Floating-point types and operations (1)/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Formatted output (1)/Boolean type and operations. True and false" />
+            <option value="$PROJECT_DIR$/Topics/Formatted output (1)/Boolean type and operations. True and false (1)" />
+            <option value="$PROJECT_DIR$/Topics/Formatted output (1)/Boolean type and operations. True and false (2)" />
+            <option value="$PROJECT_DIR$/Topics/Formatted output (1)/Simple combination" />
+            <option value="$PROJECT_DIR$/Topics/Formatted output (1)/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Formatted output (1)/Theory (1)" />
+            <option value="$PROJECT_DIR$/Topics/Functional decomposition (1)/Checking divisibility and printing appropriate strings" />
+            <option value="$PROJECT_DIR$/Topics/Functional decomposition (1)/Formatted output" />
+            <option value="$PROJECT_DIR$/Topics/Functional decomposition (1)/Math wizardry in your pocket" />
+            <option value="$PROJECT_DIR$/Topics/Functional decomposition (1)/Method createFullName" />
+            <option value="$PROJECT_DIR$/Topics/Functional decomposition (1)/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Increment and decrement (1)/Decrement all" />
+            <option value="$PROJECT_DIR$/Topics/Increment and decrement (1)/Increase, decrease and increase an integer" />
+            <option value="$PROJECT_DIR$/Topics/Increment and decrement (1)/Increment, decrement, then double n" />
+            <option value="$PROJECT_DIR$/Topics/Increment and decrement (1)/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Instance methods/Complex numbers" />
+            <option value="$PROJECT_DIR$/Topics/Instance methods/Instance methods" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations (1)/Computing the remainder and its triple" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations (1)/Converting minutes to hours and minutes format" />
+            <option value="$PROJECT_DIR$/Topics/Integer types and operations (1)/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Iterating over arrays/Alphabetical order" />
+            <option value="$PROJECT_DIR$/Topics/Iterating over arrays/Count how many times a number occurs" />
+            <option value="$PROJECT_DIR$/Topics/Iterating over arrays/Cyclically shifting elements" />
+            <option value="$PROJECT_DIR$/Topics/Iterating over arrays/Iterating over arrays" />
+            <option value="$PROJECT_DIR$/Topics/Method  main (1)/Calculating factorial of a given number" />
+            <option value="$PROJECT_DIR$/Topics/Method  main (1)/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Multiple conditions  switch (2)/Day of the week from an integer" />
+            <option value="$PROJECT_DIR$/Topics/Multiple conditions  switch (2)/Floor-space of the room" />
+            <option value="$PROJECT_DIR$/Topics/Multiple conditions  switch (2)/Harry Potter" />
+            <option value="$PROJECT_DIR$/Topics/Multiple conditions  switch (2)/Multiple conditions  switch" />
+            <option value="$PROJECT_DIR$/Topics/Multiple conditions  switch/Day of the week from an integer" />
+            <option value="$PROJECT_DIR$/Topics/Multiple conditions  switch/Floor-space of the room" />
+            <option value="$PROJECT_DIR$/Topics/Multiple conditions  switch/Multiple conditions  switch" />
+            <option value="$PROJECT_DIR$/Topics/Multiple conditions  switch/Theory" />
+            <option value="$PROJECT_DIR$/Topics/One-line condition with ternary operator (1)/Check if a given number is equal to 10" />
+            <option value="$PROJECT_DIR$/Topics/One-line condition with ternary operator (1)/Conditional statement" />
+            <option value="$PROJECT_DIR$/Topics/One-line condition with ternary operator (1)/Determining if an integer is odd or even" />
+            <option value="$PROJECT_DIR$/Topics/One-line condition with ternary operator (1)/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Random class/Generate random numbers" />
+            <option value="$PROJECT_DIR$/Topics/Random class/Random class" />
+            <option value="$PROJECT_DIR$/Topics/Random class/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Reading user input with Scanner (1)/Greet user with their name and age" />
+            <option value="$PROJECT_DIR$/Topics/Reading user input with Scanner (1)/Guest list of a hotel" />
+            <option value="$PROJECT_DIR$/Topics/Static members/Detail manufacturing" />
+            <option value="$PROJECT_DIR$/Topics/Static members/Static members" />
+            <option value="$PROJECT_DIR$/Topics/Static members/Time constants" />
+            <option value="$PROJECT_DIR$/Topics/Static members/Too many cats" />
+            <option value="$PROJECT_DIR$/Topics/Type casting (1)/Converting and printing double values as integers" />
+            <option value="$PROJECT_DIR$/Topics/Type casting (1)/Theory" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
